@@ -3,7 +3,7 @@
 >
 > **About**
 >
-> Collections of exercises of different topics of Java Language Programming:
+> Collections of exercises from *HackerRank.com* of different topics of Java Language Programming:
 >
 > * [Introduction](https://www.hackerrank.com/domains/languages/java-introduction)
 > * [Java Strings](https://www.hackerrank.com/domains/languages/java-strings)
